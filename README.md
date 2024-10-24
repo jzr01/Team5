@@ -17,4 +17,20 @@ This project utilizes machine learning models to predict NBA player performance 
 - **Data Visualization**: Use of Matplotlib, Seaborn, and Plotly for visual exploration and analysis.
 
 ## Directory Structure
+. ├── Code.ipynb # Main notebook for the project ├── README.md # This file ├── data/ # Directory for storing datasets (not included)
 
+
+## Requirements
+
+The following Python libraries are required to run the code:
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- plotly
+- scikit-learn
+
+To install the required dependencies, run:
+
+pip install pandas numpy matplotlib seaborn plotly scikit-learn
